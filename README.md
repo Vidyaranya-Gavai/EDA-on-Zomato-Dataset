@@ -163,4 +163,4 @@ Noida
 
  ##### 8. 30 Most popular cuisines offered in Indian restaurants:
  ![Screenshot 2023-06-28 211811](https://github.com/Vidyaranya-Gavai/EDA-on-Zomato-Dataset/assets/114799492/c86446f1-e407-4661-9a98-643ebf36a093)
-'Count' is number restaurants in india that offer the particular cuisine
+'Count' is number restaurants in India that offer the particular cuisine
